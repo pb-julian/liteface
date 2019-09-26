@@ -1,4 +1,4 @@
-# LightFace - InsightFace with TensorFlow Lite
+# LiteFace - InsightFace with TensorFlow Lite
 With LiteFace we convert the state-of-the-art face detection and recognition models InsightFace, from MXNet to TensorFlow Lite to be deployed and used in Android, iOS, embedded devices etc... for real-time face detection and recognition.  
 There is no other documented way of doing this.
 
